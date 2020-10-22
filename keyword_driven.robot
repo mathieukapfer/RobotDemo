@@ -13,7 +13,7 @@ Documentation     Example test cases using the keyword-driven testing approach.
 Library           CalculatorLibrary.py
 
 *** Test Cases ***
-Push button
+Push One button
     Push button    1
     Result should be    1
 
